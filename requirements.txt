@@ -1,0 +1,12 @@
+# Dépendances minimales pour le tableau de bord académique
+dash==2.14.1
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+pandas==2.0.3
+pathlib==1.0.1
+python-dateutil==2.8.2
+numpy==1.24.3
+# Éviter la version la plus récente qui pourrait causer des problèmes de compatibilité
+requests==2.31.0
+Flask==2.2.5
+Werkzeug==2.2.3

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+academic_data.db
+*.sqlite3
+.DS_Store
+venv/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
